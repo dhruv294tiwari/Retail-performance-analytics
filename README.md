@@ -56,7 +56,7 @@ This dashboard serves as a performance monitoring tool for:
 ![Overview](SCREENSHOT/OVERVIEW.png)
 
 ### Sales Trends Analysis
-![Trends](SCREENSHOT/SALES BY PERIOD.png)
+![Trends](SCREENSHOT/SALESBYPERIOD.png)
 
 ### Top/Bottom Performance
 ![Performance Analysis](SCREENSHOT/TOP_BOTTOM.png)
