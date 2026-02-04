@@ -53,16 +53,16 @@ This dashboard serves as a performance monitoring tool for:
 ## Screenshots
 
 ### Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](SCREENSHOT/OVERVIEW.png)
 
 ### Sales Trends Analysis
-![Trends](screenshots/trends.png)
+![Trends](SCREENSHOT/SALES BY PERIOD.png)
 
 ### Top/Bottom Performance
-![Performance Analysis](screenshots/top-bottom-analysis.png)
+![Performance Analysis](SCREENSHOT/TOP_BOTTOM.png)
 
 ### Comparative Analysis
-![Comparison](screenshots/comparison.png)
+![Comparison](SCREENSHOT/COMPARISION.png)
 
 ## Data Source
 Retail store transaction dataset (2020-2024) with customer, product, and sales information.
